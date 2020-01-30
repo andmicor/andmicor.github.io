@@ -12,7 +12,7 @@ primarylinks:
  - title: BitBucket
    url: https://bitbucket.org/%7Bf737f4d0-3071-49e2-981c-cf6740428edb%7D/
  - title: LinkedIn
-   url: www.linkedin.com/in/andrés-millán-alcaide-914468145
+   url: https://linkedin.com/in/andrés-millán-alcaide-914468145
 
 #Any buzzword skills you want to include
 skills:
@@ -28,13 +28,13 @@ skills:
 #Work experience is required
 roles:
  - title: Personal Técnico de Apoyo (Technical Support Staff)
-   start: March. 2019
-   end: March. 2020
+   start: 2019
+   end:  2020
    employer: Research Management Service. Universidad de Córdoba
    description: In this work, integration systems were developed to facilitate administrative procedures for university researchers.
  - title: Research Internship
-   start: September. 2017
-   end: October. 2018
+   start:  2017
+   end: 2018
    employer: Computer & Electronics Engineering Department. Universidad de Córdoba
    description: During this stay, work and research has been done on the efficiency of various Network Communications in distributed and IoT environments. An efficient, closed-loop, communications protocol has been developed for a collaborative project with other universities.
 
@@ -50,14 +50,6 @@ education:
    date: 2019
    subject: Electronics Systems for Smart Environments
    school: Universidad de Málaga
-
-#This section is optional (as is the image link below)
-Cisco:
-   courses:
-    - title: CCNA2. Routing and Switching Essentials.
-      link: https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials
-      date: September, 2018
-
 
 
 intro: |
