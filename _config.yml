@@ -3,9 +3,6 @@ title: Andrés Millán Alcaide
 twitter_username: a_milln
 name: Andrés Millán Alcaide
 
-# Build settings
-#markdown: kramdown
-
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
@@ -57,6 +54,4 @@ intro: |
 
   I have had experience working in research groups, hand in hand with great researchers.<br/><br/>
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-#additionalinfo: |
-   
+
