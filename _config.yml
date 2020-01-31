@@ -43,14 +43,15 @@ roles:
    
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2018
-   subject: Computer Science (Computer Engineering mention)
-   school: Universidad de Córdoba  
  - level: Master of Science (M.Sc.)
    date: 2019
    subject: Electronics Systems for Smart Environments
    school: Universidad de Málaga
+ - level: Bachelor of Science (B.Sc.)
+   date: 2018
+   subject: Computer Science (Computer Engineering mention)
+   school: Universidad de Córdoba  
+
    
 github:
  - andmicor/andmicor.github.io
