@@ -35,6 +35,7 @@ roles:
    end:  Ongoing
    employer: Research Management Service. Universidad de Córdoba
    description: In this work, integration systems were developed to facilitate administrative procedures for university researchers.
+   
  - title: Research Internship
    start:  2018
    end: 2019
@@ -47,8 +48,7 @@ education:
  - level: Bachelor of Science (B.Sc.)
    date: 2018
    subject: Computer Science (Computer Engineering mention)
-   school: Universidad de Córdoba
-   
+   school: Universidad de Córdoba  
  - level: Master of Science (M.Sc.)
    date: 2019
    subject: Electronics Systems for Smart Environments
