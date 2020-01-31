@@ -33,15 +33,14 @@ roles:
  - title: Technical Support Staff
    start: 2019
    end:  Ongoing
-   employer: Research Management Service. Universidad de Córdoba
+   employer: Universidad de Córdoba
    description: In this work, integration systems were developed to facilitate administrative procedures for university researchers.
  - title: Research Internship
    start:  2018
    end: 2019
-   employer: Computer & Electronics Engineering Department. Universidad de Córdoba
+   employer: Universidad de Córdoba
    description: During this stay, work and research has been done on the efficiency of various Network Communications in distributed and IoT environments. An efficient, closed-loop, communications protocol has been developed for a collaborative project with other universities.
-
-
+   
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
