@@ -30,12 +30,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Personal Técnico de Apoyo (Technical Support Staff)
+ - title: Technical Support Staff
    start: 2019
    end:  Ongoing
    employer: Research Management Service. Universidad de Córdoba
    description: In this work, integration systems were developed to facilitate administrative procedures for university researchers.
-   
  - title: Research Internship
    start:  2018
    end: 2019
