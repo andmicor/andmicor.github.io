@@ -34,12 +34,12 @@ roles:
    start: 2019
    end:  Ongoing
    employer: Universidad de Córdoba
-   description: In this work, integration systems were developed to facilitate administrative procedures for university researchers.
+   description: In this work, integration systems were developed to facilitate administrative procedures for university researchers. My administrative office was the Research Management Service.
  - title: Research Internship
    start:  2018
    end: 2019
    employer: Universidad de Córdoba
-   description: During this stay, work and research has been done on the efficiency of various Network Communications in distributed and IoT environments. An efficient, closed-loop, communications protocol has been developed for a collaborative project with other universities.
+   description: During this stay, work and research has been done on the efficiency of various Network Communications in distributed and IoT environments. An efficient, closed-loop, communications protocol has been developed for a collaborative project with other universities. My group was the Advanced Informatics Research Group belong to the Computer & Electronics Engineering Department.
    
 #Education is required
 education:
