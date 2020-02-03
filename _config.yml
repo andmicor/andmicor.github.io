@@ -11,7 +11,7 @@ primarylinks:
  - title: LinkedIn
    url: https://linkedin.com/in/andrés-millán-alcaide-914468145
  - title: Contact
-   url: <a href="mailto:andresmillan41@gmail.com">Contact me</a>
+    <a href="mailto:andresmillan41@gmail.com"></a>
 
 #Any buzzword skills you want to include
 skills:
