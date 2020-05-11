@@ -30,9 +30,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Research Staff in Training - PhD Grant
+   start: 2020
+   end:  Ongoing
+   employer: Universidad de Cádiz
+   description: This grant provided by the Universidad de Cádiz in partnership with Airbus is awarded for a PhD Thesis in the Industry 4.0 scope, working together in IoT projects and prototypes. The total duration of the contract is 3 up to 4 years.
  - title: Technical Support Staff
    start: 2019
-   end:  Ongoing
+   end:  2020
    employer: Universidad de Córdoba
    description: In this work, integration systems were developed to facilitate administrative procedures for university researchers. My office was the Research Management Service.
  - title: Research Internship
